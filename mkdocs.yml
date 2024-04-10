@@ -1,0 +1,7 @@
+site_name: MOSS
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: green
