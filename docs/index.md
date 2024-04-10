@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Welcome to MOSS
 
 MOSS is an open-source focused community built around that block game, Minecraft.
